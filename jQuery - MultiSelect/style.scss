@@ -1,0 +1,21 @@
+body {
+    padding-top: 50px;
+    .wrapper,
+    .custom {
+        padding: 10px;
+    }
+    .custom-dropdown-menu {
+        right: 0;
+        li {
+            padding: 0 10px;
+            .checkbox {
+            	.bold{
+            		font-weight: bold;
+            	}
+                label {
+                    display: block;
+                }
+            }
+        }
+    }
+}

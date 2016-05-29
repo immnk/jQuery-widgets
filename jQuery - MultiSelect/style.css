@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px; }
+  body .wrapper,
+  body .custom {
+    padding: 10px; }
+  body .custom-dropdown-menu {
+    right: 0; }
+    body .custom-dropdown-menu li {
+      padding: 0 10px; }
+      body .custom-dropdown-menu li .checkbox .bold {
+        font-weight: bold; }
+      body .custom-dropdown-menu li .checkbox label {
+        display: block; }
+
+/*# sourceMappingURL=style.css.map */
